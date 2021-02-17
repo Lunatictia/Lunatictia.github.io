@@ -7,7 +7,7 @@
     <body>
         <h1>Art portfolio</h1>
                 <img src="competition_entry.png" alt="discord server icon entry">
-        <p> Made for an icon competition in a discord server. </p>
+        <p style="color:blue;"> Made for an icon competition in a discord server. </p>
                 <img src="tubbee.png" alt="bee boy like a da bees">
                 <img src="origin!niki.png" alt="merling niki :)">
                 <img src="mod wilbur.png" alt="Phantombur">
