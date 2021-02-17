@@ -2,11 +2,12 @@
     <head>
         <title>Lunatictia art portfolio</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"
     </head>
     <body>
         <h1>Art portfolio</h1>
                 <img src="competition_entry.png" alt="discord server icon entry">
+        <p> Made for an icon competition in a discord server. </p>
                 <img src="tubbee.png" alt="bee boy like a da bees">
                 <img src="origin!niki.png" alt="merling niki :)">
                 <img src="mod wilbur.png" alt="Phantombur">
