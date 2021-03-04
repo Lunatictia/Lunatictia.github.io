@@ -1,5 +1,8 @@
 body {
-   background-image: "cool_bg.png";
+   background-image: url("cool_bg.png");
+   background-color: #000000;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 p {
     color: darkblue;
