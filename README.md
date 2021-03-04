@@ -12,6 +12,7 @@
             p {
                 color: darkblue;
             }
+        </style>
     </head>
     <body>
         <h1> Winter activities </h1>
