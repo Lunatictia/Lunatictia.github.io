@@ -4,6 +4,14 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="stylesheet" href="mansStils.css">
+        <style>
+            body {
+                background-image: url("cool_bg.png");
+                background-size: cover;
+            }
+            p {
+                color: darkblue;
+            }
     </head>
     <body>
         <h1> Winter activities </h1>
