@@ -17,7 +17,7 @@
             share some that my family has done during these months. </p>
             <p>One of those being a snow fort that was made in our backyard or 
             sled riding in he šmerļa forest. </p>
-            <img src="snow_fort.jpg" alt="backyard snow fort">
+            <img src="snow_fort.jpg" alt="backyard snow fort" style="width:100px;height:95px;">
             <p> Other winter activities <a href="http://bucketlistjourney.net/19-ideas-winter-bucket-list-things-to-do/"> here </p>
     </body>
 </html> 
