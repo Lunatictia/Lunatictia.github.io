@@ -13,6 +13,9 @@
             <li> Snowball fights </li>
             <li> Snowmen building </li>
         </ul>
+        <p>Table containing 3 popular winter activity places 
+            <a href="http://localhost:8383/arteweb/adreses.html">here</a>
+        </p>
             <p>Personally, I don't really like winter and it's activities, but I
             share some that my family has done during these months. </p>
             <p>One of those being a snow fort that was made in our backyard or 
