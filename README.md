@@ -32,5 +32,7 @@
             sled riding in the šmerļa forest. </p>
             <img src="snow_fort.jpg" alt="backyard snow fort" style="width:100px;height:95px;">
             <p> Other winter activities <a href="http://bucketlistjourney.net/19-ideas-winter-bucket-list-things-to-do/"> here </p>
+                <p> Want to do some simple math and find out a date? <a href="forma.html">Click here!</a>
+        <p> Or maybe check out some colours? Then go <a href="citaLapa.html">here</a>
     </body>
 </html> 
