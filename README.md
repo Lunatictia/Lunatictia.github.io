@@ -34,5 +34,6 @@
             <p> Other winter activities <a href="http://bucketlistjourney.net/19-ideas-winter-bucket-list-things-to-do/">here</a> </p>
                 <p> Want to do some simple math and find out a date? <a href="forma.html">Click here!</a>
         <p> Or maybe check out some colours? Then go <a href="citaLapa.html">here</a>
+        <p> Other other stuff <a href="skola.html">here</a> and <a href="darbibas.html">here</a>. </p>
     </body>
 </html> 
